@@ -1,0 +1,8 @@
+[package]
+name = "gplay"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+graphviz-rs = "0.2.0"
+petgraph = "0.6.5"

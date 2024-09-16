@@ -1,0 +1,24 @@
+digraph G {
+    "Brno" -> "Třebíč" [style=dotted];
+    "Brno" -> "Židlochovice" [style=dotted];
+    "Brno" -> "Vyškov" [style=dotted];
+    "Brno" -> "Blansko" [style=dotted];
+    "Pohořelice" -> "Židlochovice" [style=dotted];
+    "Pohořelice" -> "Třebíč" [style=dotted];
+    "Blansko" -> "Mor. Třebová" [style=dotted];
+    "Třebíč" -> "Mor. Buďějovice" [style=dotted];
+    "Mor. Buďějovice" -> "Znojmo" [style=dotted];
+    "Brno" -> "Znojmo" [style=dotted];
+    "Mor. Buďějovice" -> "Jemnice" [style=dotted];
+    "Jihlava" -> "Třebíč" [style=dotted];
+    "Jihlava" -> "Jemnice" [style=dotted];
+    "Jemnice" -> "Znojmo" [style=dotted];
+    "Pohořelice" -> "Znojmo" [style=dotted];
+    "Nové Město" -> "Jihlava" [style=dotted];
+    "Nové Město" -> "Brno" [style=dotted];
+    "Nové Město" -> "Třebíč" [style=dotted];
+    "Nové Město" -> "Blansko" [style=dotted];
+    "Nové Město" -> "Mor. Třebová" [style=dotted];
+    "Vyškov" -> "Blansko" [style=dotted];
+    "Vyškov" -> "Židlochovice" [style=dotted];
+}
